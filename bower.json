@@ -1,0 +1,26 @@
+{
+  "name": "ngGeometry",
+  "main": "ngGeometry.js",
+  "version": "0.0.1",
+  "authors": [
+    "Brandon Dail <Kierkegaurd@gmail.com>"
+  ],
+  "description": "AngularJS directive for a simple Three.JS scene",
+  "keywords": [
+    "angular",
+    "three.js",
+    "geometry"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.14",
+    "three.js": "*"
+  }
+}
