@@ -39,6 +39,6 @@ The type of object geoemtry to use. Takes the options `octahedron`, `sphere`, or
       object-color="#2aa198"
       background-color="#fefcf5"
       wireframe="true"
-      size="size"
+      size="5"
     ></div>
 ```
